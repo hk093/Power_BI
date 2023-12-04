@@ -1,0 +1,1083 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 13793.7607421875,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1136,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTAGENCE",
+          "nodeLineageTag": "cd477db0-d90c-491c-8393-d3eded88e963",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1420,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTBTYPTIE",
+          "nodeLineageTag": "f3f07adf-fb8b-4615-87a7-244474c4f19f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1704,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTIAER",
+          "nodeLineageTag": "df590cf6-1c94-4b68-bd63-9f69d3d08d06",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1988,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTIAERIEN",
+          "nodeLineageTag": "9d36ea27-3040-4d73-8892-7379e1e3e70c",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2272,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTICCACD",
+          "nodeLineageTag": "8d59d010-7286-4f20-a18e-e90ae9c1e665",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2556,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTICCACE",
+          "nodeLineageTag": "c4afdcbc-a083-47b5-b87d-4bec3b0efeee",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2840,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTICCCOLF",
+          "nodeLineageTag": "c7d40b38-8c24-409a-a8b2-dbabfed24485",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 294,
+            "y": 569.28235488066821
+          },
+          "nodeIndex": "VTICCDOSF",
+          "nodeLineageTag": "0d23a493-65e7-4478-9592-abf46df0d927",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 862,
+            "y": 569.28235488066821
+          },
+          "nodeIndex": "VTICCRUBO",
+          "nodeLineageTag": "1a38d0b1-d9ab-43ac-9ce9-80a74a7da2e8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3124,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTICOLIS",
+          "nodeLineageTag": "cbe4c8aa-38f6-464d-ad7e-fdde26c85bfd",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3408,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTIDEPPREP",
+          "nodeLineageTag": "6df13544-3b53-4925-be89-38452e18afa3",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 569.28235488066821
+          },
+          "nodeIndex": "VTIDOSS",
+          "nodeLineageTag": "a4325c74-6803-4a1e-a3f0-b739682cbc02",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3692,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTIDOSSTIERS",
+          "nodeLineageTag": "e2d12672-c52c-4825-893d-76388bf60479",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3976,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTILIGNE",
+          "nodeLineageTag": "3e1a2b51-1363-427f-b4ad-edcc43244cd7",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4260,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTIMARITIME",
+          "nodeLineageTag": "6b829c97-0762-4704-ae9d-9d7e63fa2727",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4544,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTIREG",
+          "nodeLineageTag": "21a034f4-b0e5-400f-87d6-e35031ba94d8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4828,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTIROUTE",
+          "nodeLineageTag": "2a2a8bdf-d708-42a2-96ef-793022c98376",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 578,
+            "y": 569.28235488066821
+          },
+          "nodeIndex": "VTIRUBRIQ",
+          "nodeLineageTag": "298b2daa-d77d-4e32-8374-e8dad8110a32",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5112,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "VTITIERS",
+          "nodeLineageTag": "0264c401-1551-40af-bc39-b5bdb21740a9",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6052.7012325703745,
+            "y": 796.19271298475883
+          },
+          "nodeIndex": "BalanceN_Avec_Tiers",
+          "nodeLineageTag": "370c46e1-1add-4cfc-8a00-858d055d0002",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5681.5978836379663,
+            "y": 341.65535374470664
+          },
+          "nodeIndex": "F_COMPTEG",
+          "nodeLineageTag": "d625cfa6-fbe2-4289-9e3d-8b98ec607e76",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6071.061252243393,
+            "y": 340.84481671803383
+          },
+          "nodeIndex": "F_COMPTET",
+          "nodeLineageTag": "9f1a0810-3181-4a43-9e6f-0d0bfc194304",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5815.3981898222064,
+            "y": 1148.5647097613364
+          },
+          "nodeIndex": "F_ECRITUREC",
+          "nodeLineageTag": "ba1d3be0-83a2-458e-ae61-1ad7a5f87564",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5681.9431445635864,
+            "y": 796.19188541148674
+          },
+          "nodeIndex": "F_JOURNAUX",
+          "nodeLineageTag": "6bc4ce04-cfab-4511-952a-bc5d89f181ab",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5396,
+            "y": 672.17084636219363
+          },
+          "nodeIndex": "GL_Tiers",
+          "nodeLineageTag": "9f1c45cd-5d66-44ca-ba10-1312e72886d9",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5814.953063051149,
+            "y": -10
+          },
+          "nodeIndex": "REGLEMENT",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6913.061252243393,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "Achat Sage",
+          "nodeLineageTag": "a0687373-0522-4f22-8a55-900638ddda49",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7197.061252243393,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "Achat_Prévisionnelle",
+          "nodeLineageTag": "0e0df2ba-0ddd-4870-bd42-a7b37ff6c935",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7481.061252243393,
+            "y": 617.28235488066821
+          },
+          "nodeIndex": "BL",
+          "nodeLineageTag": "da313c85-e913-4087-8433-9ad03fa56c90",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7765.061252243393,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "Colisage_Dossier",
+          "nodeLineageTag": "30dc941c-1dfd-41a8-a8b7-2ad1c344f6cb",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8049.061252243393,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "Colisage_Facture",
+          "nodeLineageTag": "9532dac6-2b85-4dad-836f-c7c50af1636e",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8333.061252243393,
+            "y": 629.28235488066821
+          },
+          "nodeIndex": "Commercial",
+          "nodeLineageTag": "ad0dff28-d714-4dcc-a7da-fcb17d2dcf54",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6639.061252243393,
+            "y": 569.28235488066821
+          },
+          "nodeIndex": "Dossier",
+          "nodeLineageTag": "9d36e791-2a07-483a-b434-1731c3fd6751",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8617.061252243393,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "EcritureC",
+          "nodeLineageTag": "c4eef5e1-b030-4222-a02e-c64da42bcc85",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8901.061252243393,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "Entête_Achat",
+          "nodeLineageTag": "c1729419-907b-4c91-b9d7-b4a6c9d30cc5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6355.061252243393,
+            "y": 569.28235488066821
+          },
+          "nodeIndex": "Facture",
+          "nodeLineageTag": "981e1877-db64-419a-a955-9e82d94d9346",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9185.061252243393,
+            "y": 665.28235488066821
+          },
+          "nodeIndex": "JOURNAUX",
+          "nodeLineageTag": "25b30cf6-b881-46d3-bdfc-fc54ef05bba1",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9469.061252243393,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "Ligne_Achat",
+          "nodeLineageTag": "265de102-02ce-4014-82d3-e75e64b274b0",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9753.061252243393,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "LTA",
+          "nodeLineageTag": "eea22387-6069-4196-afdb-14eba0d98f22",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10037.061252243393,
+            "y": 653.28235488066821
+          },
+          "nodeIndex": "Port_Aéroports",
+          "nodeLineageTag": "879bfbe4-e194-48d4-9883-6d3d59c8cda3",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10321.061252243393,
+            "y": 665.28235488066821
+          },
+          "nodeIndex": "Regroupement",
+          "nodeLineageTag": "a3e5e8ff-11d1-4cb0-ae16-626db5751e96",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10605.061252243393,
+            "y": 617.28235488066821
+          },
+          "nodeIndex": "Tiers",
+          "nodeLineageTag": "95aeb256-d99d-4734-8a3a-781864cabd95",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10889.061252243393,
+            "y": 593.28235488066821
+          },
+          "nodeIndex": "Tiers_Akanea",
+          "nodeLineageTag": "0a1286c5-a752-4049-9ecf-e3027a1f647c",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11173.061252243393,
+            "y": 665.28235488066821
+          },
+          "nodeIndex": "Trafic",
+          "nodeLineageTag": "6332d7cc-e521-4166-9c99-9746256f8a7d",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11457.061252243393,
+            "y": 653.28235488066821
+          },
+          "nodeIndex": "Type_tiers_akanea",
+          "nodeLineageTag": "82bca9f0-7ab3-4747-a22e-6e30524ed27f",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12015.061252243393,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "Ligne_facture",
+          "nodeLineageTag": "0e2ac895-2794-4579-a4c7-7e8e8f3b4d69",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11731.061252243393,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "Dim_Facture_Vente",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12289.061252243393,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "Dim_Dossier",
+          "nodeLineageTag": "cb2c478e-ec36-4350-8e3e-d8dc0cf8116a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12573.061252243393,
+            "y": 579.28235488066821
+          },
+          "nodeIndex": "Dim_Tiers",
+          "nodeLineageTag": "94008988-946a-4ab9-bd70-08bb946b55a0",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12847.061252243393,
+            "y": 0
+          },
+          "nodeIndex": "Dim_EcritureC_tmp",
+          "nodeLineageTag": "14ffc119-2776-4016-98e4-1eafda8c15ba",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13242.858492376607,
+            "y": 86
+          },
+          "nodeIndex": "map_Devise",
+          "nodeLineageTag": "d49e5416-996a-48cd-af31-107a0c6aee5c",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13516.858492376607,
+            "y": 0
+          },
+          "nodeIndex": "map_reg_date",
+          "nodeLineageTag": "cad314ef-f832-4108-860d-b220e03a929d",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13884.218906293181,
+            "y": 0
+          },
+          "nodeIndex": "map_reg_date2",
+          "nodeLineageTag": "3abefa8c-68c0-4311-9e5c-528e17e19ff0",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14452.053537166374,
+            "y": 490.23406634985218
+          },
+          "nodeIndex": "Dim_Achat_prévisionnelle_Tmp",
+          "nodeLineageTag": "9eda7aff-5b03-4652-a889-6d7d0703a555",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 17715.012576087527,
+            "y": 754.5175907597644
+          },
+          "nodeIndex": "Dim_Client",
+          "nodeLineageTag": "c33464de-ef9e-4aa9-b277-fe77c9d28b05",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16099.720425390755,
+            "y": 716.5175907597644
+          },
+          "nodeIndex": "Dim_Colisage_Dossier",
+          "nodeLineageTag": "26112932-4828-48bd-a8b7-a933d8657c60",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16503.543463064947,
+            "y": 716.5175907597644
+          },
+          "nodeIndex": "Dim_Colisage_Dossier_TMP",
+          "nodeLineageTag": "b976d23d-3e40-4f41-b4bb-8f61ce019566",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 18522.658651435915,
+            "y": 778.5175907597644
+          },
+          "nodeIndex": "Dim_Devise",
+          "nodeLineageTag": "d48d25ba-1d54-4265-af9e-41f8cbf09221",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 18926.481689110107,
+            "y": 778.5175907597644
+          },
+          "nodeIndex": "Dim_Devise_tmp",
+          "nodeLineageTag": "eee388a2-1006-45f3-80e2-30ac8e082887",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 15300.100147583349,
+            "y": 671.48558275468349
+          },
+          "nodeIndex": "Dim_Facture",
+          "nodeLineageTag": "4886a088-a89e-4f3a-807b-d6e34a221a8d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 17311.189538413335,
+            "y": 742.5175907597644
+          },
+          "nodeIndex": "Dim_Fournisseur",
+          "nodeLineageTag": "8f5cfcd7-4042-4f2d-bedc-b22e2832c276",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14790.211092731173,
+            "y": 0
+          },
+          "nodeIndex": "Dim_Map_Client_Facture",
+          "nodeLineageTag": "3e1ded5f-6fb3-4191-9c5d-630ad437e9ec",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 19330.3047267843,
+            "y": 802.5175907597644
+          },
+          "nodeIndex": "Dim_MAp_Devise",
+          "nodeLineageTag": "54c47886-35a3-46ca-9748-db04f919d71c",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14158.218906293181,
+            "y": 980.46813269970448
+          },
+          "nodeIndex": "Dim_Map_poids",
+          "nodeLineageTag": "19853f3d-a44f-4b60-929d-112ed91872b0",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16907.366500739143,
+            "y": 716.5175907597644
+          },
+          "nodeIndex": "Dim_Map_Règlement",
+          "nodeLineageTag": "a4bf05c8-dc58-4eec-a302-15dfe2677980",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 15695.897387716563,
+            "y": 933.54959876484531
+          },
+          "nodeIndex": "Dim_Nbr_Facture",
+          "nodeLineageTag": "7eddd8fe-99b7-4bdc-a6cd-2cb59c44bd7f",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 18118.835613761719,
+            "y": 766.5175907597644
+          },
+          "nodeIndex": "Dim_temp_Achat_prévisionnelleD",
+          "nodeLineageTag": "3961693e-0df5-4fe9-b429-2a811234b397",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 19604.3047267843,
+            "y": 0
+          },
+          "nodeIndex": "Dim_FACT_TMP",
+          "nodeLineageTag": "2aad366b-bf5a-43bd-9b27-fd02245ae299",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14879.1035549093,
+            "y": 472
+          },
+          "nodeIndex": "temp_Achat_prévisionnelleD",
+          "nodeLineageTag": "489909e9-3076-4a24-9fc6-60563cee94e6",
+          "size": {
+            "height": 276,
+            "width": 310
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 19878.3047267843,
+            "y": 0
+          },
+          "nodeIndex": "Temp_tout0",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 20152.3047267843,
+            "y": 0
+          },
+          "nodeIndex": "Dim_Dossier (2)",
+          "nodeLineageTag": "dd7c43d6-cdd2-4e14-befe-05a03d33c369",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 20426.3047267843,
+            "y": 0
+          },
+          "nodeIndex": "SectionAchatprevisionnel",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 20700.3047267843,
+            "y": 0
+          },
+          "nodeIndex": "Temp_tout",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 20974.3047267843,
+            "y": 0
+          },
+          "nodeIndex": "Temp_tout0_distinct",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 21248.3047267843,
+            "y": 0
+          },
+          "nodeIndex": "temp_tout_distinctdeviseap",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Toutes les tables",
+      "zoomValue": 50,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 1,
+      "scrollPosition": {
+        "x": 205,
+        "y": 5
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "Dim_FACT_TMP",
+          "nodeLineageTag": "2aad366b-bf5a-43bd-9b27-fd02245ae299",
+          "size": {
+            "height": 282.5,
+            "width": 276.5
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 719.20000076293945,
+            "y": 363.5
+          },
+          "nodeIndex": "EcritureC",
+          "nodeLineageTag": "c4eef5e1-b030-4222-a02e-c64da42bcc85",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 421.95000076293945,
+            "y": 361.5
+          },
+          "nodeIndex": "Dim_Achat_prévisionnelle_Tmp",
+          "nodeLineageTag": "9eda7aff-5b03-4652-a889-6d7d0703a555",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 546.70000076293945,
+            "y": 0
+          },
+          "nodeIndex": "Dim_Colisage_Dossier",
+          "nodeLineageTag": "26112932-4828-48bd-a8b7-a933d8657c60",
+          "size": {
+            "height": 218.75,
+            "width": 246.5
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 1021.4500007629395,
+            "y": 0
+          },
+          "nodeIndex": "Dim_Client",
+          "nodeLineageTag": "c33464de-ef9e-4aa9-b277-fe77c9d28b05",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1047.0000009536743,
+            "y": 402.5
+          },
+          "nodeIndex": "Dim_Fournisseur",
+          "nodeLineageTag": "8f5cfcd7-4042-4f2d-bedc-b22e2832c276",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 5
+        }
+      ],
+      "name": "Disposition 1",
+      "zoomValue": 80,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Disposition 1",
+  "defaultDiagram": "Toutes les tables"
+}

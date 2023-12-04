@@ -1,0 +1,126 @@
+{
+  "config": "{\"version\":\"5.49\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY23SU08\",\"version\":\"5.48\",\"type\":2}},\"activeSectionIndex\":1,\"defaultDrillFilterOtherVisuals\":true,\"slowDataSourceSettings\":{\"isCrossHighlightingDisabled\":false,\"isSlicerSelectionsButtonEnabled\":false,\"isFilterSelectionsButtonEnabled\":false,\"isFieldWellButtonEnabled\":false,\"isApplyAllButtonEnabled\":false},\"linguisticSchemaSyncVersion\":2,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}]}}",
+  "layoutOptimization": 0,
+  "resourcePackages": [
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "CY23SU08",
+            "path": "BaseThemes/CY23SU08.json",
+            "type": 202
+          }
+        ],
+        "name": "SharedResources",
+        "type": 2
+      }
+    }
+  ],
+  "sections": [
+    {
+      "config": "{}",
+      "displayName": "Page 1",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "ReportSection",
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"306d2e21041218b86479\",\"layouts\":[{\"id\":0,\"position\":{\"x\":45,\"y\":419,\"width\":281,\"height\":280,\"z\":1000,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"slicer\",\"projections\":{\"Values\":[{\"queryRef\":\"Dim_Achat_prévisionnelle_Tmp.Date.Variation.Hiérarchie de dates.Année\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"Dim_Achat_prévisionnelle_Tmp\",\"Type\":0}],\"Select\":[{\"HierarchyLevel\":{\"Expression\":{\"Hierarchy\":{\"Expression\":{\"PropertyVariationSource\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Name\":\"Variation\",\"Property\":\"Date\"}},\"Hierarchy\":\"Hiérarchie de dates\"}},\"Level\":\"Année\"},\"Name\":\"Dim_Achat_prévisionnelle_Tmp.Date.Variation.Hiérarchie de dates.Année\",\"NativeReferenceName\":\"Date Année\"}],\"OrderBy\":[{\"Direction\":1,\"Expression\":{\"HierarchyLevel\":{\"Expression\":{\"Hierarchy\":{\"Expression\":{\"PropertyVariationSource\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Name\":\"Variation\",\"Property\":\"Date\"}},\"Hierarchy\":\"Hiérarchie de dates\"}},\"Level\":\"Année\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"data\":[{\"properties\":{\"mode\":{\"expr\":{\"Literal\":{\"Value\":\"'Dropdown'\"}}}}}],\"general\":[{\"properties\":{\"filter\":{\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"l\",\"Entity\":\"LocalDateTable_93c66c19-ca2a-4aa5-90a4-56e9c2165a51\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"l\"}},\"Property\":\"Année\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"2022L\"}}]]}}}]}}}}]},\"cachedFilterDisplayItems\":[{\"id\":{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"LocalDateTable_93c66c19-ca2a-4aa5-90a4-56e9c2165a51\"}},\"Property\":\"Année\"}},\"Right\":{\"Literal\":{\"Value\":\"2022L\"}}}}},\"displayName\":\"2022\"}]}}",
+          "filters": "[]",
+          "height": 280.00,
+          "width": 281.00,
+          "x": 45.00,
+          "y": 419.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"51c9d23e94f517190af7\",\"layouts\":[{\"id\":0,\"position\":{\"x\":394,\"y\":419,\"width\":281,\"height\":280,\"z\":3000,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"fact_union1.Montant Euro AP\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_union1\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"Montant Euro AP\"},\"Name\":\"fact_union1.Montant Euro AP\",\"NativeReferenceName\":\"Montant Euro AP\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"Montant Euro AP\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 280.00,
+          "width": 281.00,
+          "x": 394.00,
+          "y": 419.00,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"58e6cae3020f7daaf571\",\"layouts\":[{\"id\":0,\"position\":{\"x\":393.5758407687028,\"y\":128.514560251005,\"z\":2000,\"width\":281.12560054907345,\"height\":279.5191685459359,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"cardVisual\",\"projections\":{\"Data\":[{\"queryRef\":\"Sum(Dim_Achat_prévisionnelle_Tmp.Montant devise AP)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"Dim_Achat_prévisionnelle_Tmp\",\"Type\":0}],\"Select\":[{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Montant devise AP\"}},\"Function\":0},\"Name\":\"Sum(Dim_Achat_prévisionnelle_Tmp.Montant devise AP)\",\"NativeReferenceName\":\"Somme de Montant devise AP\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Montant devise AP\"}},\"Function\":0}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 279.52,
+          "width": 281.13,
+          "x": 393.58,
+          "y": 128.51,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"90101abf822596c094fc\",\"layouts\":[{\"id\":0,\"position\":{\"x\":685,\"y\":419,\"width\":279,\"height\":280,\"z\":4000,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"fact_union1.EXP\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_union1\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"EXP\"},\"Name\":\"fact_union1.EXP\",\"NativeReferenceName\":\"EXP\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"EXP\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 280.00,
+          "width": 279.00,
+          "x": 685.00,
+          "y": 419.00,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"dce3fe9547077ebcc2c7\",\"layouts\":[{\"id\":0,\"position\":{\"x\":44.98009608785175,\"y\":128.514560251005,\"z\":0,\"width\":281.12560054907345,\"height\":279.5191685459359,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Sum(Dim_Achat_prévisionnelle_Tmp.Montant devise AP)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"Dim_Achat_prévisionnelle_Tmp\",\"Type\":0}],\"Select\":[{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Montant devise AP\"}},\"Function\":0},\"Name\":\"Sum(Dim_Achat_prévisionnelle_Tmp.Montant devise AP)\",\"NativeReferenceName\":\"Somme de Montant devise AP\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Montant devise AP\"}},\"Function\":0}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 279.52,
+          "width": 281.13,
+          "x": 44.98,
+          "y": 128.51,
+          "z": 0.00
+        }
+      ],
+      "width": 1280.00
+    },
+    {
+      "config": "{}",
+      "displayName": "Page 2",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "ReportSection52f6d57aedd4809e84a3",
+      "ordinal": 1,
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"16063a52b307309ce49a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1019,\"y\":270,\"width\":248,\"height\":240,\"z\":7,\"tabOrder\":7}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"fact_union4.achat_reel\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_union4\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"achat_reel\"},\"Name\":\"fact_union4.achat_reel\",\"NativeReferenceName\":\"achat_reel\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"achat_reel\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 240.00,
+          "width": 248.00,
+          "x": 1019.00,
+          "y": 270.00,
+          "z": 7.00
+        },
+        {
+          "config": "{\"name\":\"a48a341bf706c59db5cd\",\"layouts\":[{\"id\":0,\"position\":{\"x\":484.39270339536677,\"y\":270.32680614415654,\"z\":6,\"width\":480.2760515251512,\"height\":240.1380257625756,\"tabOrder\":6}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"fact_union4.AchatPrev\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_union4\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"achat_perv\"},\"Name\":\"fact_union4.AchatPrev\",\"NativeReferenceName\":\"achat_perv\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"achat_perv\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 240.14,
+          "width": 480.28,
+          "x": 484.39,
+          "y": 270.33,
+          "z": 6.00
+        },
+        {
+          "config": "{\"name\":\"d0364358fb185f6662d0\",\"layouts\":[{\"id\":0,\"position\":{\"x\":153.68833648804838,\"y\":389.7097103804084,\"z\":9,\"width\":300.5155865257375,\"height\":300.5155865257375,\"tabOrder\":9}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"fact_union4.montant_réglé\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_union4\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"montant_réglé\"},\"Name\":\"fact_union4.montant_réglé\",\"NativeReferenceName\":\"montant_réglé\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"montant_réglé\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 300.52,
+          "width": 300.52,
+          "x": 153.69,
+          "y": 389.71,
+          "z": 9.00
+        },
+        {
+          "config": "{\"name\":\"df24ba46f4a83855bb42\",\"layouts\":[{\"id\":0,\"position\":{\"x\":484.39270339536677,\"y\":510.4648319067321,\"z\":8,\"width\":480.2760515251512,\"height\":200.34372435049164,\"tabOrder\":8}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"fact_union4.montant_global\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"fact_union4\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"montant_global\"},\"Name\":\"fact_union4.montant_global\",\"NativeReferenceName\":\"montant_global\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"montant_global\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 200.34,
+          "width": 480.28,
+          "x": 484.39,
+          "y": 510.46,
+          "z": 8.00
+        }
+      ],
+      "width": 1280.00
+    }
+  ]
+}
